@@ -1,16 +1,13 @@
-## Hi there 👋
+## BEM-VINDOS 😊
 
-<!--
-**viny2024/viny2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Vinicios Costa Paz
 
-Here are some ideas to get you started:
+- estudando na [alura](https://www.alura.com.br)
+- utlizando esse espaço para organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato pessoal ⤵️
+
+@vinnypazcosta@gmail.com
+
+![image](https://github.com/viny2024/viny2024/assets/173840643/d1ec3e38-4cb9-47eb-80eb-fcac31d3619e)
+
